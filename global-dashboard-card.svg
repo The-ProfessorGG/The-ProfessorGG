@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="190" viewBox="0 0 560 190" role="img" aria-labelledby="title desc">
+  <title id="title">Global Situation Dashboard</title>
+  <desc id="desc">Project card for a real-time intelligence and global monitoring dashboard.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111F"/><stop offset="1" stop-color="#0B1730"/></linearGradient>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#22D3EE"/><stop offset=".55" stop-color="#8B5CF6"/><stop offset="1" stop-color="#10B981"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#22D3EE" stop-opacity=".22"/><stop offset="1" stop-color="#22D3EE" stop-opacity="0"/></radialGradient>
+    <clipPath id="globe"><circle cx="91" cy="91" r="54"/></clipPath>
+  </defs>
+  <rect x="1" y="1" width="558" height="188" rx="15" fill="url(#bg)" stroke="url(#edge)" stroke-width="2"/>
+  <circle cx="91" cy="91" r="82" fill="url(#glow)"/>
+  <circle cx="91" cy="91" r="54" fill="#071827" stroke="#22D3EE" stroke-opacity=".75"/>
+  <g clip-path="url(#globe)" fill="none" stroke="#22D3EE" stroke-opacity=".36">
+    <ellipse cx="91" cy="91" rx="29" ry="54"/><ellipse cx="91" cy="91" rx="12" ry="54"/>
+    <path d="M37 74h108M37 91h108M37 108h108"/>
+    <path d="M42 62c22 12 73 12 98 0M42 120c22-12 73-12 98 0"/>
+  </g>
+  <path d="M33 125c37 22 91 18 123-17" fill="none" stroke="#8B5CF6" stroke-dasharray="4 6"/>
+  <circle cx="145" cy="114" r="5" fill="#10B981"><animate attributeName="opacity" values="1;.25;1" dur="1.8s" repeatCount="indefinite"/></circle>
+  <circle cx="69" cy="70" r="4" fill="#F87171"/><circle cx="111" cy="99" r="4" fill="#FBBF24"/><circle cx="82" cy="121" r="4" fill="#10B981"/>
+  <text x="176" y="43" font-family="Segoe UI,Arial,sans-serif" font-size="19" font-weight="700" fill="#F8FAFC">Global Situation Dashboard</text>
+  <text x="176" y="69" font-family="ui-monospace,Consolas,monospace" font-size="11" letter-spacing="1.5" fill="#22D3EE">REAL-TIME INTELLIGENCE</text>
+  <text x="176" y="96" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">Interactive 3D globe for space, disaster,</text>
+  <text x="176" y="115" font-family="Segoe UI,Arial,sans-serif" font-size="13" fill="#94A3B8">aviation, maritime and cyber awareness.</text>
+  <g font-family="ui-monospace,Consolas,monospace" font-size="11">
+    <rect x="176" y="137" width="58" height="23" rx="11" fill="#10283A"/><text x="190" y="153" fill="#67E8F9">React</text>
+    <rect x="242" y="137" width="72" height="23" rx="11" fill="#201A3D"/><text x="254" y="153" fill="#C4B5FD">Three.js</text>
+    <rect x="322" y="137" width="65" height="23" rx="11" fill="#0D2B26"/><text x="335" y="153" fill="#6EE7B7">Ollama</text>
+  </g>
+  <text x="524" y="164" text-anchor="end" font-family="ui-monospace,Consolas,monospace" font-size="10" fill="#10B981">● ONLINE</text>
+</svg>

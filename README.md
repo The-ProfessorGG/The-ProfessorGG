@@ -29,17 +29,17 @@
 <div align="center">
 
 <a href="https://github.com/The-ProfessorGG/global-situation-dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=global-situation-dashboard&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Global Situation Dashboard">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/global-dashboard-card.svg" alt="Global Situation Dashboard">
 </a>
 <a href="https://github.com/The-ProfessorGG/quiz-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=quiz-app&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Quiz App">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/quiz-app-card.svg" alt="Live Classroom Quiz">
 </a>
 
 <a href="https://github.com/The-ProfessorGG/Weather_station">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=Weather_station&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Weather Station">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/weather-station-card.svg" alt="ESP8266 Weather Station">
 </a>
 <a href="https://github.com/The-ProfessorGG/hand-tracking">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=hand-tracking&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Hand Tracking">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/hand-tracking-card.svg" alt="Hand Tracking Mouse Control">
 </a>
 
 </div>
