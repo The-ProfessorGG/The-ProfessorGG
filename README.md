@@ -1,5 +1,4 @@
 <!-- Theme-aware profile banner -->
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/light.svg">
@@ -8,45 +7,44 @@
 
 <div align="center">
 
-Building practical AI, data science, education, and software projects
+### Building practical AI, data science, education, and software projects
 
-
+[![Profile views](https://komarev.com/ghpvc/?username=The-ProfessorGG&style=for-the-badge&color=0891b2)](https://github.com/The-ProfessorGG)
+[![GitHub followers](https://img.shields.io/github/followers/The-ProfessorGG?style=for-the-badge&logo=github&label=Followers&color=7c3aed)](https://github.com/The-ProfessorGG?tab=followers)
+[![Personal website](https://img.shields.io/badge/Visit_My_Website-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sites.google.com/view/gareth-grant/start-here)
 
 </div>
 
-About me
+## About me
 
-🎓 Lecturer and technology educator
+- 🎓 Lecturer and technology educator
+- 🤖 Exploring local AI, machine learning, and intelligent learning tools
+- 📊 Building data-driven dashboards and practical student applications
+- 🌍 Based in South Africa
+- 🧪 Turning ideas into useful, testable prototypes
+- 🌐 Explore my work on my [personal website](https://sites.google.com/view/gareth-grant/start-here)
 
-🤖 Exploring local AI, machine learning, and intelligent learning tools
-
-📊 Building data-driven dashboards and practical student applications
-
-🌍 Based in South Africa
-
-🧪 Turning ideas into useful, testable prototypes
-
-Featured projects
+## Featured projects
 
 <div align="center">
 
 <a href="https://github.com/The-ProfessorGG/global-situation-dashboard">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=global-situation-dashboard&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Global Situation Dashboard">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/global-dashboard-card.svg" alt="Global Situation Dashboard">
 </a>
 <a href="https://github.com/The-ProfessorGG/quiz-app">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=quiz-app&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Quiz App">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/quiz-app-card.svg" alt="Live Classroom Quiz">
 </a>
 
 <a href="https://github.com/The-ProfessorGG/Weather_station">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=Weather_station&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Weather Station">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/weather-station-card.svg" alt="ESP8266 Weather Station">
 </a>
 <a href="https://github.com/The-ProfessorGG/hand-tracking">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=The-ProfessorGG&repo=hand-tracking&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF" alt="Hand Tracking">
+  <img width="49%" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/main/hand-tracking-card.svg" alt="Hand Tracking Mouse Control">
 </a>
 
 </div>
 
-GitHub activity
+## GitHub activity
 
 <div align="center">
 
@@ -68,19 +66,8 @@ GitHub activity
 
 </div>
 
-Contribution snake
 
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/output/snake-light.svg">
-  <img width="100%" alt="Snake animation showing Gareth's GitHub contributions" src="https://raw.githubusercontent.com/The-ProfessorGG/The-ProfessorGG/output/snake-light.svg">
-</picture>
-
-</div>
-
-Connect
+## Connect
 
 <div align="center">
 
