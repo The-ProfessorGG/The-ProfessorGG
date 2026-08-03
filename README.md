@@ -17,12 +17,12 @@
 
 ## About me
 
-- 🎓 Lecturer and technology educator
-- 🤖 Exploring local AI, machine learning, and intelligent learning tools
-- 📊 Building data-driven dashboards and practical student applications
-- 🌍 Based in South Africa
-- 🧪 Turning ideas into useful, testable prototypes
-- 🌐 Explore my work on my [personal website](https://sites.google.com/view/gareth-grant/start-here)
+-  Lecturer and technology educator
+-  Exploring local AI, machine learning, and intelligent learning tools
+-  Building data-driven dashboards and practical student applications
+-  Based in South Africa
+-  Turning ideas into useful, testable prototypes
+-  Explore my work on my [personal website](https://sites.google.com/view/gareth-grant/start-here)
 
 ## Featured projects
 
